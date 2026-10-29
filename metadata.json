@@ -1,0 +1,6 @@
+{
+  "name": "نقره ایوب زاده",
+  "description": "فروشگاه آنلاین فاخر نقره‌های دست‌ساز، انگشترهای متبرک، حلقه‌های نامزدی، نیم‌ست و سرویس نقره با سنگ‌های اصیل یمنی و نیشابور",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
